@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-07-01T19:33:39.430Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GMtasdWwDyTCJGclacr9" version="21.3.0" type="github">
+  <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
+    <mxGraphModel dx="804" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-4" value="Source&lt;br&gt;Files&lt;br&gt;(e.g. MD, rst, csv_" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="380" y="220" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-5" value="Indexers" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="877" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-6" value="Parsers" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-8" value="json&lt;br&gt;pandoc&lt;br&gt;format" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="730" y="220" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-10" value="Indexes" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-11" value="Document&lt;br&gt;Store" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-13" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-14" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-15" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LrL2rTfDPoAjnLKWS54N-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="755" y="330" width="30" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
